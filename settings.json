@@ -4,7 +4,7 @@
   "fallback": "Désolé, je n'ai pas bien compris votre demande (ressemblance sous 60%).",
   "typewriter": true,
   "ai": {
-    "on": true,
+    "on": false,
     "mode": "answer",
     "model": "gemini-2.5-flash-lite"
   }
