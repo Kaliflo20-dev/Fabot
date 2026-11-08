@@ -1,0 +1,11 @@
+{
+  "aliases": "slt, cc, coucou, hello, hey, bjr = salut\nbonsoir = bonjour\npb, prob = probleme\nstp, svp, s il te plait, s il vous plait = \nmdp = mot de passe\nwi fi = wifi",
+  "threshold": 0.7,
+  "fallback": "Désolé, je n'ai pas bien compris votre demande (ressemblance sous 60%).",
+  "typewriter": true,
+  "ai": {
+    "on": true,
+    "mode": "answer",
+    "model": "gemini-2.5-flash-lite"
+  }
+}
